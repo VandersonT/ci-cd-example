@@ -2,6 +2,8 @@
 
 APIREST de tarefas simples, feito em **Express + TypeScript** com objetivo de aprofundar os estudos em **CI/CD**.
 
+Aprofundando conhecimentos em CI/CD.
+
 ---
 
 ## Rodando localmente
